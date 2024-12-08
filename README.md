@@ -15,7 +15,7 @@ A CAPTCHA game built with React that challenges users to find missing cards in a
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/card-sequence-captcha.git
+git clone https://github.com/anisohn/card-sequence-captcha.git
 
 # Navigate to project directory
 cd card-sequence-captcha
