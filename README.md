@@ -15,10 +15,10 @@ A CAPTCHA game built with React that challenges users to find missing cards in a
 
 ```bash
 # Clone the repository
-git clone https://github.com/anisohn/card-sequence-captcha.git
+git clone https://github.com/anisohn/Captcha---Nuit-de-L-info-.git
 
 # Navigate to project directory
-cd card-sequence-captcha
+cd captcha
 
 # Install dependencies
 npm install
